@@ -66,6 +66,7 @@ small {
 .mid-section {
     display: flex;
     margin-bottom: 120px;
+    background-image: url();
 }
 
 .second-section-div {
@@ -82,3 +83,63 @@ small {
 }
 
 /*second section end*/
+
+/*Menu Section Started*/
+
+.our-menu {
+    text-align: center;
+}
+
+.our-menu p {
+    font-size: 14px;
+}
+
+.food-menu {
+    display: flex;
+    margin-bottom: 120px;
+    padding: 20px;
+}
+
+.food-photo {
+    margin-left: 3%;
+    margin-right: 3%;
+    box-shadow: 5px 5px 15px gray;
+    border-radius: 15px;
+}
+
+.food-text {
+    margin-top: -45px;
+    padding: 5%;
+}
+
+.food-photo img {
+    width: 100%;
+}
+
+/*Menu section end*/
+
+/*follower part start*/
+.food-follower {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.social-follower {
+    text-align: center;
+    display: flex;
+    box-shadow: 2px 2px 3px 3px #9a9797;
+    border-radius: 15px;
+    height: 150px;
+    font-size: 20px;
+    padding-left: 8%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 7%;
+}
+
+.items {
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 5%;
+}
