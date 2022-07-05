@@ -3,6 +3,8 @@ body {
     margin: 0%;
 }
 
+/*first section start*/
+
 h1 {
     font-size: 60px;
     font-weight: 700;
@@ -52,3 +54,31 @@ small {
 .link-btn:hover {
     background-color: teal;
 }
+
+/*first section end*/
+
+/*second section*/
+
+.about {
+    color: orange;
+}
+
+.mid-section {
+    display: flex;
+    margin-bottom: 120px;
+}
+
+.second-section-div {
+    width: 50%;
+}
+
+.second-section-div img {
+    width: 100%
+}
+
+.about-us {
+    margin: 170px 90px;
+    padding: 10px 20px;
+}
+
+/*second section end*/
