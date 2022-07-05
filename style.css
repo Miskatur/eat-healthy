@@ -143,3 +143,8 @@ small {
     margin-left: 10%;
     margin-right: 5%;
 }
+
+.copyright {
+    text-align: center;
+    margin-top: 100px;
+}
